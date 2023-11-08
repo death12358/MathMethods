@@ -1,9 +1,9 @@
-github.com/death12358/text-conversion v0.0.0-20230920073709-fa7c2e9614d7 h1:UqCaWyJezQ4nSAR+W+SRTqtBEQQeQaV4te59w0a6uno=
-github.com/death12358/text-conversion v0.0.0-20230920073709-fa7c2e9614d7/go.mod h1:E4KPHfaJ6siURNaiR6rqqeg9CUSef6cuoao+rNbJfXI=
 github.com/gonum/blas v0.0.0-20181208220705-f22b278b28ac h1:Q0Jsdxl5jbxouNs1TQYt0gxesYMU4VXRbsTlgDloZ50=
 github.com/gonum/blas v0.0.0-20181208220705-f22b278b28ac/go.mod h1:P32wAyui1PQ58Oce/KYkOqQv8cVw1zAapXOl+dRFGbc=
 github.com/gonum/floats v0.0.0-20181209220543-c233463c7e82 h1:EvokxLQsaaQjcWVWSV38221VAK7qc2zhaO17bKys/18=
 github.com/gonum/floats v0.0.0-20181209220543-c233463c7e82/go.mod h1:PxC8OnwL11+aosOB5+iEPoV3picfs8tUpkVd0pDo+Kg=
+github.com/gonum/integrate v0.0.0-20181209220457-a422b5c0fdf2 h1:GUSkTcIe1SlregbHNUKbYDhBsS8lNgYfIp4S4cToUyU=
+github.com/gonum/integrate v0.0.0-20181209220457-a422b5c0fdf2/go.mod h1:pDgmNM6seYpwvPos3q+zxlXMsbve6mOIPucUnUOrI7Y=
 github.com/gonum/internal v0.0.0-20181124074243-f884aa714029 h1:8jtTdc+Nfj9AR+0soOeia9UZSvYBvETVHZrugUowJ7M=
 github.com/gonum/internal v0.0.0-20181124074243-f884aa714029/go.mod h1:Pu4dmpkhSyOzRwuXkOgAvijx4o+4YMUJJo9OvPYMkks=
 github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9 h1:7qnwS9+oeSiOIsiUMajT+0R7HR6hw5NegnKPmn/94oI=
@@ -12,5 +12,3 @@ github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9 h1:V2IgdyerlBa/MxaEFR
 github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9/go.mod h1:0EXg4mc1CNP0HCqCz+K4ts155PXIlUywf0wqN+GfPZw=
 github.com/gonum/stat v0.0.0-20181125101827-41a0da705a5b h1:fbskpz/cPqWH8VqkQ7LJghFkl2KPAiIFUHrTJ2O3RGk=
 github.com/gonum/stat v0.0.0-20181125101827-41a0da705a5b/go.mod h1:Z4GIJBJO3Wa4gD4vbwQxXXZ+WHmW6E9ixmNrwvs0iZs=
-github.com/shopspring/decimal v1.3.1 h1:2Usl1nmF/WZucqkFZhnfFYxxxu8LG21F6nPQBE5gKV8=
-github.com/shopspring/decimal v1.3.1/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
